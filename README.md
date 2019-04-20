@@ -1,4 +1,2 @@
-# May
-Linux 
-hello world 
-maybe this will be a new start !
+Python
+记录学习Python的点点滴滴
